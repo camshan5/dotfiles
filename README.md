@@ -1,4 +1,4 @@
-# Cam Shan does dotfiles
+# Cam Shan's does dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
 
